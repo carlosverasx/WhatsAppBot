@@ -1,6 +1,4 @@
 #  WhatsappBot
-![GitHub Repo stars](https://img.shields.io/github/stars/carlosaugustoveras/WhatsappBot?style=social)
-![GitHub issues by-label](https://img.shields.io/github/issues/carlosaugustoveras/WhatsappBot/help%20wanted.svg)
 
 
 Este é um simples bot para WhatsApp feito em Javscript construido em cima do [Baileys](https://github.com/adiwajshing/Baileys).
