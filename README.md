@@ -1,7 +1,7 @@
 #  WhatsappBot
-[![CodeFactor](https://www.codefactor.io/repository/github/kamuridesu/whatsappbot/badge)](https://www.codefactor.io/repository/github/kamuridesu/whatsappbot)
-![GitHub Repo stars](https://img.shields.io/github/stars/kamuridesu/WhatsappBot?style=social)
-![GitHub issues by-label](https://img.shields.io/github/issues/kamuridesu/WhatsappBot/help%20wanted.svg)
+[![CodeFactor](https://www.codefactor.io/repository/github/carlosaugustoveras/whatsappbot/badge)](https://www.codefactor.io/repository/github/carlosaugustoveras/whatsappbot)
+![GitHub Repo stars](https://img.shields.io/github/stars/carlosaugustoveras/WhatsappBot?style=social)
+![GitHub issues by-label](https://img.shields.io/github/issues/carlosaugustoveras/WhatsappBot/help%20wanted.svg)
 
 
 Este é um simples bot para WhatsApp feito em Javscript construido em cima do [Baileys](https://github.com/adiwajshing/Baileys).
@@ -10,15 +10,15 @@ O principal objetivo deste projeto não é ser um bot cheio de recursos, mas sim
 
 ## Como usar
 ### Via install
-Baixe e rode o [install.sh](https://raw.githubusercontent.com/kamuridesu/WhatsappBot/main/install.sh).
+Baixe e rode o [install.sh](https://raw.githubusercontent.com/carlosaugustoveras/WhatsappBot/main/install.sh).
 ## Via clone
-Clone este repositório, edit o arquivo [config/config.admin.json](https://github.com/kamuridesu/WhatsappBot/blob/main/config/config.admin.json) com seu numero de telefone (exemplo: 551100000000) e o prefixo do seu bot. Depois instale as depenências: ffmpeg, webp, nodejs.
+Clone este repositório, edit o arquivo [config/config.admin.json](https://github.com/carlosaugustoveras/WhatsappBot/blob/main/config/config.admin.json) com seu numero de telefone (exemplo: 551100000000) e o prefixo do seu bot. Depois instale as depenências: ffmpeg, webp, nodejs.
 
 Em seguida, rode os comandos:
 - `npm i`
 - `npx nodemon index.js`
 
-Caso queira criar seu próprio repositório, use o botão de template e altere o git clone no [install.sh](https://raw.githubusercontent.com/kamuridesu/WhatsappBot/main/install.sh) e a linha 19: `url: "https://raw.githubusercontent.com/kamuridesu/WhatsappBot/main/package.json"` em src/functions.js, redirecionando ambos para seu repositório.
+Caso queira criar seu próprio repositório, use o botão de template e altere o git clone no [install.sh](https://raw.githubusercontent.com/carlosaugustoveras/WhatsappBot/main/install.sh) e a linha 19: `url: "https://raw.githubusercontent.com/carlosaugustoveras/WhatsappBot/main/package.json"` em src/functions.js, redirecionando ambos para seu repositório.
 
 ## Todos os comandos:
 | Comando | Descrição                         |
@@ -47,7 +47,7 @@ The main objective of this project is not to be a full featured bot, but to prov
 ## How to use
 Clone this repository, create a JSON named config.admin.json with your number and your bot prefix. You can follow [this example](https://github.com/kamuridesu/WhatsappBot/blob/main/example.config.admin.json).
 
-If you want to create your own repository, use the template button and change the git clone on [install.sh](https://raw.githubusercontent.com/kamuridesu/WhatsappBot/main/install.sh) and the line 19: `url: "https://raw.githubusercontent.com/kamuridesu/WhatsappBot/main/package.json"` in src/functions.js, redirecting both to your repo.
+If you want to create your own repository, use the template button and change the git clone on [install.sh](https://raw.githubusercontent.com/carlosaugustoveras/WhatsappBot/main/install.sh) and the line 19: `url: "https://raw.githubusercontent.com/carlosaugustoveras/WhatsappBot/main/package.json"` in src/functions.js, redirecting both to your repo.
 
 ## All the commands:
 | Command | Description                         |
@@ -64,6 +64,6 @@ More commands will be addded as the development goes on.
 Create a pull requests with your changes.
 
 ## Contact
-Contact me on Telegram: [@kamuridesu](https://t.me/kamuridesu)
+Contact me on Telegram: [@Nordestino_v](https://t.me/Nordestino)
 
 Or enter on the [WhatsApp Discussion Group](https://chat.whatsapp.com/FCIGqV5RehW2wgalxZ4KDm)
