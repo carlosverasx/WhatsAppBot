@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kamuridesu/WhatsappBot.git"
+    "url": "git+https://github.com//WhatsappBot.git"
   },
-  "author": "kamuridesu",
+  "author": "Carlos Augusto Veras",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kamuridesu/WhatsappBot/issues"
+    "url": "https://github.com/carlosaugustoveras/WhatsappBot/issues"
   },
-  "homepage": "https://github.com/kamuridesu/WhatsappBot#readme",
+  "homepage": "https://github.com/carlosaugustoveras/WhatsappBot#readme",
   "dependencies": {
     "@adiwajshing/baileys": "^3.5.3",
     "axios": "^0.24.0",
