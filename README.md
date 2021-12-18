@@ -34,8 +34,6 @@ Crie um pull request com suas mudanças.
 ## Contato
 Me chama no Telegram: [@nordestino](https://t.me/nordestino_v)
 
-Ou entre no [grupo de discussão do WhatsApp](https://chat.whatsapp.com/FCIGqV5RehW2wgalxZ4KDm)
-
 
 #  WhatsappBot
 
@@ -64,5 +62,3 @@ Create a pull requests with your changes.
 
 ## Contact
 Contact me on Telegram: [@nordestino](https://t.me/nordestino_v)
-
-Or enter on the [WhatsApp Discussion Group](https://chat.whatsapp.com/FCIGqV5RehW2wgalxZ4KDm)
