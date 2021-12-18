@@ -1,5 +1,4 @@
 #  WhatsappBot
-[![CodeFactor](https://www.codefactor.io/repository/github/carlosaugustoveras/whatsappbot/badge)](https://www.codefactor.io/repository/github/carlosaugustoveras/whatsappbot)
 ![GitHub Repo stars](https://img.shields.io/github/stars/carlosaugustoveras/WhatsappBot?style=social)
 ![GitHub issues by-label](https://img.shields.io/github/issues/carlosaugustoveras/WhatsappBot/help%20wanted.svg)
 
@@ -33,7 +32,7 @@ Caso queira criar seu próprio repositório, use o botão de template e altere o
 Crie um pull request com suas mudanças.
 
 ## Contato
-Me chama no Telegram: [@kamuridesu](https://t.me/kamuridesu)
+Me chama no Telegram: [@nordestino](https://t.me/nordestino_v)
 
 Ou entre no [grupo de discussão do WhatsApp](https://chat.whatsapp.com/FCIGqV5RehW2wgalxZ4KDm)
 
@@ -45,7 +44,7 @@ This is a simple JavaScript WhatApp Bot built on top of [Baileys](https://github
 The main objective of this project is not to be a full featured bot, but to provide a clean and organized bot so you can implement your own functions and commands easily. The bot also has an auto update feature, so you'll receive the latest updates if you use this repository. 
 
 ## How to use
-Clone this repository, create a JSON named config.admin.json with your number and your bot prefix. You can follow [this example](https://github.com/kamuridesu/WhatsappBot/blob/main/example.config.admin.json).
+Clone this repository, create a JSON named config.admin.json with your number and your bot prefix. You can follow [this example](https://github.com/carlosaugustoveras/WhatsappBot/blob/main/example.config.admin.json).
 
 If you want to create your own repository, use the template button and change the git clone on [install.sh](https://raw.githubusercontent.com/carlosaugustoveras/WhatsappBot/main/install.sh) and the line 19: `url: "https://raw.githubusercontent.com/carlosaugustoveras/WhatsappBot/main/package.json"` in src/functions.js, redirecting both to your repo.
 
@@ -64,6 +63,6 @@ More commands will be addded as the development goes on.
 Create a pull requests with your changes.
 
 ## Contact
-Contact me on Telegram: [@Nordestino_v](https://t.me/Nordestino)
+Contact me on Telegram: [@nordestino](https://t.me/nordestino_v)
 
 Or enter on the [WhatsApp Discussion Group](https://chat.whatsapp.com/FCIGqV5RehW2wgalxZ4KDm)
