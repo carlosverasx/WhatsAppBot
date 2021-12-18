@@ -9,7 +9,7 @@ O principal objetivo deste projeto não é ser um bot cheio de recursos, mas sim
 
 ## Como usar
 ### Via install
-Baixe e rode o [install.sh](https://raw.githubusercontent.com/carlosaugustoveras/WhatsappBot/main/install.sh).
+Baixe e rode o [install.sh](https://raw.githubusercontent.com/carlosaugustoveras/WhatsAppBot/main/install.sh).
 ## Via clone
 Clone este repositório, edit o arquivo [config/config.admin.json](https://github.com/carlosaugustoveras/WhatsappBot/blob/main/config/config.admin.json) com seu numero de telefone (exemplo: 551100000000) e o prefixo do seu bot. Depois instale as depenências: ffmpeg, webp, nodejs.
 
